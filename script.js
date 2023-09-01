@@ -1,4 +1,4 @@
-let promises = [];
+window.promises = [];
 const container = document.getElementById("output");
 
 for(let i=1; i<=5; i++){
